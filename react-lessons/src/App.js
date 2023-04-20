@@ -1,10 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import { Cars } from "./components/Cars/Cars";
+
 
 function App() {
+
+
+
   return (
     <div>
-      hi
+      <Cars/>
+      
     </div>
   );
 }
