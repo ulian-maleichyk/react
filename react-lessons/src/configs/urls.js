@@ -6,5 +6,5 @@ const urls = {
 
 export {
     baseURL,
-    urls
+    urls,  
 }
